@@ -75,14 +75,14 @@ Evaluation:
     ================   Sequence BFS in Maze   ================
     BFS time = 54404.455179 ms
     Parent size: 8988004
-    
+
     ---------------------------------   The case of large empty maze (4000 by 4000)   ----------------------------------
-    
+
     ================ Parallel BFS in Maze ================
-    BFS time = 54821.169233 ms
+    BFS time = 64620.063118 ms
     Parent size: 15984004
     ================ Sequence BFS in Maze ================
-    BFS time = 106110.192654 ms
+    BFS time = 178364.211065 ms
     Parent size: 15984004
 
 
